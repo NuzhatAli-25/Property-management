@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "jwt-decode": "^4.0.0",
+    "mongodb": "^6.18.0",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "name": "land",
+  "version": "1.0.0",
+  "description": "Land, Flat Sell, Lease &amp; Rental System",
+  "main": "Home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahmidatalukder/Mern-Stack-Project-for-CSE470.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahmidatalukder/Mern-Stack-Project-for-CSE470/issues"
+  },
+  "homepage": "https://github.com/tahmidatalukder/Mern-Stack-Project-for-CSE470#readme"
+}
