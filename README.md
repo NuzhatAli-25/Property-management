@@ -1,2 +1,2 @@
-# Mern-Stack-Project-for-CSE471
+# Mern-Stack-Project
 Land, Flat Sell, Lease &amp; Rental System 
